@@ -115,33 +115,6 @@
       "author": "tsirysndr"
     },
     {
-      "id": "opencrvs-mdg",
-      "name": "OpenCRVS Madagascar",
-      "category": "governance",
-      "description": "Système d'état civil digital — enregistrement des naissances et décès.",
-      "github": "https://github.com/digital-gov-mg/opencrvs-countryconfig-mdg",
-      "website": null,
-      "author": "digital-gov-mg"
-    },
-    {
-      "id": "torolalana",
-      "name": "Torolalana",
-      "category": "governance",
-      "description": "Portail national des procédures administratives et services publics.",
-      "github": null,
-      "website": "https://torolalana.gov.mg",
-      "author": "digital-gov-mg"
-    },
-    {
-      "id": "xroad-mg",
-      "name": "X-Road Madagascar",
-      "category": "governance",
-      "description": "Plateforme d'interopérabilité pour l'échange sécurisé de données gouvernementales.",
-      "github": null,
-      "website": "https://digital.gov.mg",
-      "author": "digital-gov-mg"
-    },
-    {
       "id": "gasy-corpus",
       "name": "Gasy Corpus Crawler",
       "category": "language",
