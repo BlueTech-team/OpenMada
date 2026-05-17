@@ -41,6 +41,12 @@
       "description": "Projets gouvernementaux pour la modernisation des services publics numériques."
     },
     {
+      "id": "education",
+      "name": "Education",
+      "emoji": "📚",
+      "description": "Projets liés à l'éducation malgache."
+    },
+    {
       "id": "identity",
       "name": "Identité Digitale",
       "emoji": "🆔",
@@ -122,6 +128,15 @@
       "github": "https://github.com/puchka/BetaX-Community",
       "website": null,
       "author": "puchka"
+    },
+    {
+      "id": "sekoliko",
+      "name": "Sekoliko",
+      "category": "education",
+      "description": "Application web open source de gestion scolaire pour les écoles et les universités.",
+      "github": "https://github.com/julkwel/sekoliko",
+      "website": null,
+      "author": "julkwel"
     },
     {
       "id": "top-mg-github",
