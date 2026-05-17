@@ -22,6 +22,7 @@ Ce dépôt contient un fichier JSON structuré listant les projets malgaches. Il
 | 🗺️ | **Cartographie** | Cartographie, géolocalisation et données géographiques |
 | 🚌 | **Transport** | Mobilité urbaine et itinéraires |
 | 👥 | **Démographie** | Données démographiques et communautés de développeurs |
+| 👥 | **Finance & Comptabilité** | Projets liés à la finance et comptabilité malgache  |
 | 🏛️ | **Gouvernance Digitale** | Modernisation des services publics numériques |
 | 🆔 | **Identité Digitale** | Identité numérique et identification des citoyens |
 | 🔤 | **Langue & Culture** | Langue malgache, NLP, dictionnaires et culture |
