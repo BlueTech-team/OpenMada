@@ -31,7 +31,7 @@
     {
       "id": "finance-comptabilité",
       "name": "Finance & comptabilité",
-      "emoji": "👥",
+      "emoji": "💳",
       "description": "Projets liés au domaine de la finance et comptabilité malgaches."
     },
     {
@@ -95,6 +95,24 @@
       "github": "https://github.com/ghislainv/deforestation-maps-Mada",
       "website": null,
       "author": "ghislainv"
+    },
+    {
+      "id": "comptabilité-malagasy",
+      "name": "Odoo Module - Comptabilité Malagasy (PCG 2005)",
+      "category": "finance-comptabilité",
+      "description": "Plan Comptable Général Malagasy.",
+      "github": null,
+      "website": "https://apps.odoo.com/apps/modules/19.0/softeam_l10n_mg",
+      "author": "Hoby RASAMIMISA"
+    },
+    {
+      "id": "comptabilité-malagasy",
+      "name": "Odoo Module - Rapports de Comptabilité Malagasy (PCG 2005)",
+      "category": "finance-comptabilité",
+      "description": "Produire les états financiers Malgache conformes au décret n°2004-272 du 18 février 2004.",
+      "github": null,
+      "website": "https://apps.odoo.com/apps/modules/19.0/softeam_l10n_mg_reports",
+      "author": "Hoby RASAMIMISA"
     },
     {
       "id": "betax-community",
