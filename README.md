@@ -90,9 +90,6 @@ Si ton projet ne rentre dans aucune catégorie existante, tu peux proposer une n
 | Deforestation Maps | 🗺️ Cartographie | ghislainv | [GitHub](https://github.com/ghislainv/deforestation-maps-Mada) |
 | BetaX Community | 🚌 Transport | puchka | [GitHub](https://github.com/puchka/BetaX-Community) |
 | Top MG GitHub Users | 👥 Démographie | tsirysndr | [GitHub](https://github.com/tsirysndr/top-mg-github-users) |
-| OpenCRVS Madagascar | 🏛️ Gouvernance | digital-gov-mg | [GitHub](https://github.com/digital-gov-mg/opencrvs-countryconfig-mdg) |
-| Torolalana | 🏛️ Gouvernance | digital-gov-mg | [Site](https://torolalana.gov.mg) |
-| X-Road Madagascar | 🏛️ Gouvernance | digital-gov-mg | [Site](https://digital.gov.mg) |
 | Gasy Corpus Crawler | 🔤 Langue | SetraC4Ci | [GitHub](https://github.com/SetraC4Ci/Gasy-Corpus-Crawler) |
 | MM CLI | 🔤 Langue | HarimbolaSantatra | [GitHub](https://github.com/HarimbolaSantatra/mm-cli) |
 | Quotes Gasy | 🎭 Communauté | rasolofonirina | [GitHub](https://github.com/rasolofonirina/quotes-gasy) |
