@@ -1,0 +1,199 @@
+{
+  "meta": {
+    "name": "OpenMada",
+    "description": "Répertoire collaboratif des projets open source de Madagascar contribuant à la digitalisation du pays.",
+    "version": "1.0.0",
+    "maintainers": [
+      "BlueTech"
+    ],
+    "website": "https://openmada.bluetech.mg",
+    "license": "CC0-1.0"
+  },
+  "categories": [
+    {
+      "id": "cartography",
+      "name": "Cartographie",
+      "emoji": "🗺️",
+      "description": "Projets liés à la cartographie, géolocalisation et données géographiques de Madagascar."
+    },
+    {
+      "id": "transport",
+      "name": "Transport",
+      "emoji": "🚌",
+      "description": "Projets liés au transport, mobilité urbaine et itinéraires à Madagascar."
+    },
+    {
+      "id": "demography",
+      "name": "Démographie",
+      "emoji": "👥",
+      "description": "Projets liés aux données démographiques et communautés de développeurs malgaches."
+    },
+    {
+      "id": "finance-comptabilité",
+      "name": "Finance & comptabilité",
+      "emoji": "👥",
+      "description": "Projets liés au domaine de la finance et comptabilité malgaches."
+    }
+    {
+      "id": "governance",
+      "name": "Gouvernance Digitale",
+      "emoji": "🏛️",
+      "description": "Projets gouvernementaux pour la modernisation des services publics numériques."
+    },
+    {
+      "id": "identity",
+      "name": "Identité Digitale",
+      "emoji": "🆔",
+      "description": "Projets liés à l'identité numérique et l'identification des citoyens."
+    },
+    {
+      "id": "language",
+      "name": "Langue & Culture",
+      "emoji": "🔤",
+      "description": "Projets liés à la langue malgache, NLP, dictionnaires et culture."
+    },
+    {
+      "id": "community",
+      "name": "Fun & Communauté",
+      "emoji": "🎭",
+      "description": "Projets communautaires, outils ludiques et créations de développeurs malgaches."
+    }
+  ],
+  "projects": [
+    {
+      "id": "madagascar-map",
+      "name": "Madagascar Map",
+      "category": "cartography",
+      "description": "Liste complète des régions, communes, districts et villes de Madagascar.",
+      "github": "https://github.com/julkwel/madagascar-map",
+      "website": null,
+      "author": "julkwel"
+    },
+    {
+      "id": "mada-cli",
+      "name": "Mada CLI",
+      "category": "cartography",
+      "description": "Recherche de régions, districts, communes et fokontany depuis le terminal.",
+      "github": "https://github.com/tsirysndr/mada",
+      "website": null,
+      "author": "tsirysndr"
+    },
+    {
+      "id": "interactive-map",
+      "name": "Interactive Map",
+      "category": "cartography",
+      "description": "Carte interactive de Madagascar avec données géographiques enrichies.",
+      "github": "https://github.com/nralibera/madagascar_is_not_only_a_movie",
+      "website": null,
+      "author": "nralibera"
+    },
+    {
+      "id": "deforestation-maps",
+      "name": "Deforestation Maps",
+      "category": "cartography",
+      "description": "60 ans de déforestation et fragmentation forestière à Madagascar.",
+      "github": "https://github.com/ghislainv/deforestation-maps-Mada",
+      "website": null,
+      "author": "ghislainv"
+    },
+    {
+      "id": "betax-community",
+      "name": "BetaX Community",
+      "category": "transport",
+      "description": "Waypoints et itinéraires de bus dans la zone urbaine d'Antananarivo.",
+      "github": "https://github.com/puchka/BetaX-Community",
+      "website": null,
+      "author": "puchka"
+    },
+    {
+      "id": "top-mg-github",
+      "name": "Top MG GitHub Users",
+      "category": "demography",
+      "description": "Liste classée des utilisateurs GitHub basés à Madagascar.",
+      "github": "https://github.com/tsirysndr/top-mg-github-users",
+      "website": null,
+      "author": "tsirysndr"
+    },
+    {
+      "id": "opencrvs-mdg",
+      "name": "OpenCRVS Madagascar",
+      "category": "governance",
+      "description": "Système d'état civil digital — enregistrement des naissances et décès.",
+      "github": "https://github.com/digital-gov-mg/opencrvs-countryconfig-mdg",
+      "website": null,
+      "author": "digital-gov-mg"
+    },
+    {
+      "id": "torolalana",
+      "name": "Torolalana",
+      "category": "governance",
+      "description": "Portail national des procédures administratives et services publics.",
+      "github": null,
+      "website": "https://torolalana.gov.mg",
+      "author": "digital-gov-mg"
+    },
+    {
+      "id": "xroad-mg",
+      "name": "X-Road Madagascar",
+      "category": "governance",
+      "description": "Plateforme d'interopérabilité pour l'échange sécurisé de données gouvernementales.",
+      "github": null,
+      "website": "https://digital.gov.mg",
+      "author": "digital-gov-mg"
+    },
+    {
+      "id": "gasy-corpus",
+      "name": "Gasy Corpus Crawler",
+      "category": "language",
+      "description": "Scripts Python pour le scraping et la collecte de contenus malgaches.",
+      "github": "https://github.com/SetraC4Ci/Gasy-Corpus-Crawler",
+      "website": null,
+      "author": "SetraC4Ci"
+    },
+    {
+      "id": "mm-cli",
+      "name": "MM CLI",
+      "category": "language",
+      "description": "Encyclopédie et dictionnaire malgache accessible en ligne de commande.",
+      "github": "https://github.com/HarimbolaSantatra/mm-cli",
+      "website": null,
+      "author": "HarimbolaSantatra"
+    },
+    {
+      "id": "quotes-gasy",
+      "name": "Quotes Gasy",
+      "category": "community",
+      "description": "Collection de citations célèbres d'auteurs malgaches et internationaux.",
+      "github": "https://github.com/rasolofonirina/quotes-gasy",
+      "website": null,
+      "author": "rasolofonirina"
+    },
+    {
+      "id": "quotes-explorer",
+      "name": "Gasy Quotes Explorer",
+      "category": "community",
+      "description": "Interface web élégante pour explorer la collection de citations malgaches.",
+      "github": "https://github.com/tokyRT/Gasy-quotes-explorer",
+      "website": null,
+      "author": "tokyRT"
+    },
+    {
+      "id": "mes-emulator",
+      "name": "MES Emulator",
+      "category": "community",
+      "description": "Émulateur NES multi-plateforme en Rust, jouable dans le navigateur et sur Android.",
+      "github": "https://github.com/luckasRanarison/mes",
+      "website": null,
+      "author": "luckasRanarison"
+    },
+    {
+      "id": "icelang",
+      "name": "Icelang",
+      "category": "community",
+      "description": "Langage de programmation minimaliste inspiré de Lua et Rust avec interpréteur WASM.",
+      "github": "https://github.com/luckasRanarison/icelang",
+      "website": null,
+      "author": "luckasRanarison"
+    }
+  ]
+}
