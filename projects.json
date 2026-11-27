@@ -200,6 +200,15 @@
       "github": "https://github.com/luckasRanarison/icelang",
       "website": null,
       "author": "luckasRanarison"
+    },
+    {
+      "id": "suivi-passeport-mg",
+      "name": "Passeport Madagascar Paris",
+      "category": "identity",
+      "description": "Bot Telegram qui prévient les Malgaches de France quand leur passeport est prêt à l'ambassade.",
+      "github": "https://github.com/Harrylepap/suivi-passeport-mg",
+      "website": "https://t.me/passeport_paris_mg_bot",
+      "author": "Harrylepap"
     }
   ]
 }
