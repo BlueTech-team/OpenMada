@@ -91,6 +91,7 @@ Si ton projet ne rentre dans aucune catégorie existante, tu peux proposer une n
 | Deforestation Maps | 🗺️ Cartographie | ghislainv | [GitHub](https://github.com/ghislainv/deforestation-maps-Mada) |
 | BetaX Community | 🚌 Transport | puchka | [GitHub](https://github.com/puchka/BetaX-Community) |
 | Top MG GitHub Users | 👥 Démographie | tsirysndr | [GitHub](https://github.com/tsirysndr/top-mg-github-users) |
+| Passeport Madagascar Paris | 🆔 Identité | Harrylepap | [GitHub](https://github.com/Harrylepap/suivi-passeport-mg) |
 | Gasy Corpus Crawler | 🔤 Langue | SetraC4Ci | [GitHub](https://github.com/SetraC4Ci/Gasy-Corpus-Crawler) |
 | MM CLI | 🔤 Langue | HarimbolaSantatra | [GitHub](https://github.com/HarimbolaSantatra/mm-cli) |
 | Quotes Gasy | 🎭 Communauté | rasolofonirina | [GitHub](https://github.com/rasolofonirina/quotes-gasy) |
